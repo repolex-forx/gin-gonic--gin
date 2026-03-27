@@ -6953,7 +6953,58 @@
         "aggregate/ast/73726dc606796a025971fe451f0aa6f1b9b847f6.nq.gz"
       ],
       "lsp": "aggregate/lsp/73726dc606796a025971fe451f0aa6f1b9b847f6.nq.gz",
-      "repolex": "aggregate/repolex/73726dc606796a025971fe451f0aa6f1b9b847f6.nq.gz"
+      "repolex": "aggregate/repolex/73726dc606796a025971fe451f0aa6f1b9b847f6.nq.gz",
+      "dep": "dep/73726dc606796a025971fe451f0aa6f1b9b847f6.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "github.com/go-playground/validator/v10",
+          "packageVersion": "v10.9.0",
+          "githubOrg": "go-playground",
+          "githubRepo": "validator",
+          "githubCommit": "ce34f361cca51e25715399ab801c5e1c01d02d89",
+          "githubTag": "v10.9.0"
+        },
+        {
+          "packageName": "github.com/pelletier/go-toml/v2",
+          "packageVersion": "v2.3.0",
+          "githubOrg": "pelletier",
+          "githubRepo": "go-toml",
+          "githubCommit": "f36a3ece9e3adf0efaf9f9bd3591c3001f17602b",
+          "githubTag": "v2.3.0"
+        },
+        {
+          "packageName": "github.com/quic-go/quic-go",
+          "packageVersion": "v0.9.0",
+          "githubOrg": "quic-go",
+          "githubRepo": "quic-go",
+          "githubCommit": "893f99a31f8e18bd35b6e2e927bbebb923e73ca3",
+          "githubTag": "v0.9.0"
+        },
+        {
+          "packageName": "github.com/go-playground/locales",
+          "packageVersion": "v0.9.1",
+          "githubOrg": "go-playground",
+          "githubRepo": "locales",
+          "githubCommit": "e113a824946153c0acb4eae2e53d72356619e547",
+          "githubTag": "v0.9.1"
+        },
+        {
+          "packageName": "github.com/go-playground/universal-translator",
+          "packageVersion": "v0.9.1",
+          "githubOrg": "go-playground",
+          "githubRepo": "universal-translator",
+          "githubCommit": "ac8d2ce7963b2340038e38b462052835a96cc1a4",
+          "githubTag": "v0.9.1"
+        },
+        {
+          "packageName": "github.com/leodido/go-urn",
+          "packageVersion": "v1.4.0",
+          "githubOrg": "leodido",
+          "githubRepo": "go-urn",
+          "githubCommit": "d725923fe33ce69c89b9e2033d069099b498224f",
+          "githubTag": "v1.4.0"
+        }
+      ]
     },
     {
       "commit": "b869fe1415e4b9eb52f247441830d502aece2d4d",

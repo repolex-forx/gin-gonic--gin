@@ -3195,7 +3195,87 @@
         "aggregate/ast/6a8b8b6651a228590bbc42145483ff864f4f6e89.nq.gz"
       ],
       "lsp": "aggregate/lsp/6a8b8b6651a228590bbc42145483ff864f4f6e89.nq.gz",
-      "repolex": "aggregate/repolex/6a8b8b6651a228590bbc42145483ff864f4f6e89.nq.gz"
+      "repolex": "aggregate/repolex/6a8b8b6651a228590bbc42145483ff864f4f6e89.nq.gz",
+      "dep": "dep/6a8b8b6651a228590bbc42145483ff864f4f6e89.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "github.com/gin-contrib/sse",
+          "ecosystem": "GO",
+          "version": "0.1.0",
+          "githubOrg": "gin-contrib",
+          "githubRepo": "sse",
+          "githubCommit": "54d8467d122d380a14768b6b4e5cd7ca4755938f",
+          "githubTag": "v0.1.0",
+          "githubUrl": "https://github.com/gin-contrib/sse",
+          "source": "build_file:go.mod"
+        },
+        {
+          "packageName": "github.com/go-playground/validator/v10",
+          "ecosystem": "GO",
+          "version": "10.2.0",
+          "githubOrg": "go-playground",
+          "githubRepo": "validator",
+          "githubCommit": "c68441b7f4748b48ad9a0c9a79d346019730e207",
+          "githubTag": "v10.2.0",
+          "githubUrl": "https://github.com/go-playground/validator",
+          "source": "build_file:go.mod"
+        },
+        {
+          "packageName": "github.com/golang/protobuf",
+          "ecosystem": "GO",
+          "version": "1.3.3",
+          "githubOrg": "golang",
+          "githubRepo": "protobuf",
+          "githubCommit": "d23c5127dc24889085f8ccea5c9d560a57a879d8",
+          "githubTag": "v1.3.3",
+          "githubUrl": "https://github.com/golang/protobuf",
+          "source": "build_file:go.mod"
+        },
+        {
+          "packageName": "github.com/json-iterator/go",
+          "ecosystem": "GO",
+          "version": "1.1.9",
+          "githubOrg": "json-iterator",
+          "githubRepo": "go",
+          "githubCommit": "acfec88f7a0d5140ace3dcdbee10184e3684a9e1",
+          "githubTag": "v1.1.9",
+          "githubUrl": "https://github.com/json-iterator/go",
+          "source": "build_file:go.mod"
+        },
+        {
+          "packageName": "github.com/mattn/go-isatty",
+          "ecosystem": "GO",
+          "version": "0.0.12",
+          "githubOrg": "mattn",
+          "githubRepo": "go-isatty",
+          "githubCommit": "7b513a986450394f7bbf1476909911b3aa3a55ce",
+          "githubTag": "v0.0.12",
+          "githubUrl": "https://github.com/mattn/go-isatty",
+          "source": "build_file:go.mod"
+        },
+        {
+          "packageName": "github.com/stretchr/testify",
+          "ecosystem": "GO",
+          "version": "1.4.0",
+          "githubOrg": "stretchr",
+          "githubRepo": "testify",
+          "githubCommit": "221dbe5ed46703ee255b1da0dec05086f5035f62",
+          "githubTag": "v1.4.0",
+          "githubUrl": "https://github.com/stretchr/testify",
+          "source": "build_file:go.mod"
+        },
+        {
+          "packageName": "github.com/ugorji/go/codec",
+          "ecosystem": "GO",
+          "version": "1.1.7",
+          "githubOrg": "ugorji",
+          "githubRepo": "go",
+          "githubCommit": "23ab95ef5dc3b70286760af84ce2327a2b64ed62",
+          "githubTag": "v1.1.7",
+          "githubUrl": "https://github.com/ugorji/go",
+          "source": "build_file:go.mod"
+        }
+      ]
     },
     {
       "commit": "84d927b8ad57ed9e1cda240b41fa2eed55066103",

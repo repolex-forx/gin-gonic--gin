@@ -4821,7 +4821,173 @@
         "aggregate/ast/6a2a26093d046d8ea92542a0fb38721c4ee40bd5.nq.gz"
       ],
       "lsp": "aggregate/lsp/6a2a26093d046d8ea92542a0fb38721c4ee40bd5.nq.gz",
-      "repolex": "aggregate/repolex/6a2a26093d046d8ea92542a0fb38721c4ee40bd5.nq.gz"
+      "repolex": "aggregate/repolex/6a2a26093d046d8ea92542a0fb38721c4ee40bd5.nq.gz",
+      "dep": "dep/6a2a26093d046d8ea92542a0fb38721c4ee40bd5.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "github.com/gin-contrib/sse",
+          "ecosystem": "GO",
+          "version": "0.1.0",
+          "githubOrg": "gin-contrib",
+          "githubRepo": "sse",
+          "githubCommit": "54d8467d122d380a14768b6b4e5cd7ca4755938f",
+          "githubTag": "v0.1.0",
+          "githubUrl": "https://github.com/gin-contrib/sse",
+          "source": "build_file:go.mod"
+        },
+        {
+          "packageName": "github.com/go-playground/validator/v10",
+          "ecosystem": "GO",
+          "version": "10.11.1",
+          "githubOrg": "go-playground",
+          "githubRepo": "validator",
+          "githubCommit": "c7e0172e0fd176bdc521afb5186818a7db6b77ac",
+          "githubTag": "v10.11.1",
+          "githubUrl": "https://github.com/go-playground/validator",
+          "source": "build_file:go.mod"
+        },
+        {
+          "packageName": "github.com/goccy/go-json",
+          "ecosystem": "GO",
+          "version": "0.9.11",
+          "githubOrg": "goccy",
+          "githubRepo": "go-json",
+          "githubCommit": "30713917a8e5740aa161ddd53f1be7fb74764533",
+          "githubTag": "v0.9.11",
+          "githubUrl": "https://github.com/goccy/go-json",
+          "source": "build_file:go.mod"
+        },
+        {
+          "packageName": "github.com/json-iterator/go",
+          "ecosystem": "GO",
+          "version": "1.1.12",
+          "githubOrg": "json-iterator",
+          "githubRepo": "go",
+          "githubCommit": "024077e996b048517130b21ea6bf12aa23055d3d",
+          "githubTag": "v1.1.12",
+          "githubUrl": "https://github.com/json-iterator/go",
+          "source": "build_file:go.mod"
+        },
+        {
+          "packageName": "github.com/mattn/go-isatty",
+          "ecosystem": "GO",
+          "version": "0.0.16",
+          "githubOrg": "mattn",
+          "githubRepo": "go-isatty",
+          "githubCommit": "13e91bf4058fb93d5629deb7b2e3763ec8f4fdf8",
+          "githubTag": "v0.0.16",
+          "githubUrl": "https://github.com/mattn/go-isatty",
+          "source": "build_file:go.mod"
+        },
+        {
+          "packageName": "github.com/pelletier/go-toml/v2",
+          "ecosystem": "GO",
+          "version": "2.0.6",
+          "githubOrg": "pelletier",
+          "githubRepo": "go-toml",
+          "githubCommit": "94bd3ddcd650ed7a329f9f01c0b5926b8146b56a",
+          "githubTag": "v2.0.6",
+          "githubUrl": "https://github.com/pelletier/go-toml",
+          "source": "build_file:go.mod"
+        },
+        {
+          "packageName": "github.com/stretchr/testify",
+          "ecosystem": "GO",
+          "version": "1.8.1",
+          "githubOrg": "stretchr",
+          "githubRepo": "testify",
+          "githubCommit": "b747d7c5f853d017ddbc5e623d026d7fc2770a58",
+          "githubTag": "v1.8.1",
+          "githubUrl": "https://github.com/stretchr/testify",
+          "source": "build_file:go.mod"
+        },
+        {
+          "packageName": "github.com/ugorji/go/codec",
+          "ecosystem": "GO",
+          "version": "1.2.7",
+          "githubOrg": "ugorji",
+          "githubRepo": "go",
+          "githubCommit": "b4c725930670fc2d46721b17f4d6974c66fb50c1",
+          "githubTag": "v1.2.7",
+          "githubUrl": "https://github.com/ugorji/go",
+          "source": "build_file:go.mod"
+        },
+        {
+          "packageName": "github.com/davecgh/go-spew",
+          "ecosystem": "GO",
+          "version": "1.1.1",
+          "githubOrg": "davecgh",
+          "githubRepo": "go-spew",
+          "githubCommit": "8991bc29aa16c548c550c7ff78260e27b9ab7c73",
+          "githubTag": "v1.1.1",
+          "githubUrl": "https://github.com/davecgh/go-spew",
+          "source": "build_file:go.mod"
+        },
+        {
+          "packageName": "github.com/go-playground/locales",
+          "ecosystem": "GO",
+          "version": "0.14.0",
+          "githubOrg": "go-playground",
+          "githubRepo": "locales",
+          "githubCommit": "52f01e016def96714dc09cf5cdd58f5660eeca02",
+          "githubTag": "v0.14.0",
+          "githubUrl": "https://github.com/go-playground/locales",
+          "source": "build_file:go.mod"
+        },
+        {
+          "packageName": "github.com/go-playground/universal-translator",
+          "ecosystem": "GO",
+          "version": "0.18.0",
+          "githubOrg": "go-playground",
+          "githubRepo": "universal-translator",
+          "githubCommit": "04491fe06b0ce6efc083d9a94f982008753a4339",
+          "githubTag": "v0.18.0",
+          "githubUrl": "https://github.com/go-playground/universal-translator",
+          "source": "build_file:go.mod"
+        },
+        {
+          "packageName": "github.com/leodido/go-urn",
+          "ecosystem": "GO",
+          "version": "1.2.1",
+          "githubOrg": "leodido",
+          "githubRepo": "go-urn",
+          "githubCommit": "6c96508144d00b380edbc8bda077e27b832d0c7b",
+          "githubTag": "v1.2.1",
+          "githubUrl": "https://github.com/leodido/go-urn",
+          "source": "build_file:go.mod"
+        },
+        {
+          "packageName": "github.com/modern-go/concurrent",
+          "ecosystem": "GO",
+          "version": "0.0.0-20180228061459-e0a39a4cb421",
+          "githubOrg": "modern-go",
+          "githubRepo": "concurrent",
+          "githubUrl": "https://github.com/modern-go/concurrent",
+          "source": "build_file:go.mod"
+        },
+        {
+          "packageName": "github.com/modern-go/reflect2",
+          "ecosystem": "GO",
+          "version": "1.0.2",
+          "githubOrg": "modern-go",
+          "githubRepo": "reflect2",
+          "githubCommit": "2b33151c9bbc5231aea69b8861c540102b087070",
+          "githubTag": "v1.0.2",
+          "githubUrl": "https://github.com/modern-go/reflect2",
+          "source": "build_file:go.mod"
+        },
+        {
+          "packageName": "github.com/pmezard/go-difflib",
+          "ecosystem": "GO",
+          "version": "1.0.0",
+          "githubOrg": "pmezard",
+          "githubRepo": "go-difflib",
+          "githubCommit": "792786c7400a136282c1664665ae0a8db921c6c2",
+          "githubTag": "v1.0.0",
+          "githubUrl": "https://github.com/pmezard/go-difflib",
+          "source": "build_file:go.mod"
+        }
+      ]
     },
     {
       "commit": "4ea0e648e38a63d6caff14100f5eab5c50912bcd",
